@@ -1,7 +1,22 @@
 #table{
-   border: 1px solid red;
+    border: 1px solid red;
 }
-#cot1{
-    width: 50px;
+#stt{
+    background-color: yellow;
 }
-#
+#hovaten{
+    background-color: yellow;
+}
+#masinhvien{
+    background-color: yellow;
+}
+#contentmsv{
+    background-color: green;
+    font-family: lato;
+}
+#contentstt{
+    background-color: red;
+}
+#ten{
+    background-color: aquamarine;
+}

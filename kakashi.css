@@ -1,15 +1,6 @@
 #table{
     border: 1px solid red;
 }
-#stt{
-    background-color: yellow;
-}
-#hovaten{
-    background-color: yellow;
-}
-#masinhvien{
-    background-color: yellow;
-}
 #contentmsv{
     background-color: green;
     font-family: lato;
@@ -23,4 +14,10 @@
 #github{
     text-decoration: none;
 
+}
+#hovaten, #stt, #masinhvien, #resume{
+    background: yellow;
+}
+body > div{
+    margin: auto;
 }

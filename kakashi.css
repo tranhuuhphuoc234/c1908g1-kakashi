@@ -17,7 +17,26 @@
 }
 #hovaten, #stt, #masinhvien, #resume{
     background: yellow;
+    text-align: center;
 }
-body > div{
-    margin: auto;
+
+#resume{
+    width: 160px;
+}
+/*body > div{*/
+/*    margin: auto;*/
+/*}*/
+button{
+    width: 150px;
+}
+#viewsource{
+    text-align: center;
+}
+#iconopen{
+    float: right;
+    width: 25px;
+}
+#icongithub{
+    float: right;
+    width: 25px;
 }
